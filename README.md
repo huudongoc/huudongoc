@@ -41,13 +41,6 @@ I'm a passionate developer who loves technology and constantly seeks new challen
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huudongoc&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 🌟 Dự án nổi bật / Featured Projects
-
-### 📱 [Tên Dự Án 1 / Project Name 1]
-
-
-
-## 📈 Hoạt động gần đây / Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
